@@ -1,22 +1,15 @@
-<h1>Hi, I'm Allen!
+### Hi, I'm Ray allen!
 
-<h2>👨‍💻 I am a Computer Science Student:</h2>
-
-- <b>)</b>
-  - [)
-- <b>)</b>
-  - [) <b><i>(Potentially NSFW)</b></i>
-- <b></b>
-  - [)
-  - [)
-  - [)
-  - [)
-- <b>C)</b>
-  - [)
-  - [)
-  - [)
-- <b></b>
-  - [)
+🙎‍♂️ Studied [Computer Science] at the university of Eastern Star Academy, San mateo Rizal<br/>
 
 
 
+
+
+
+
+
+
+
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=RayAllen&show_icons=true&theme=radical)
